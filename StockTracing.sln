@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTracing.DataAccess", "StockTracing.DataAccess\StockTracing.DataAccess.csproj", "{4ED93737-C4BB-44F7-B60E-CB51566C23D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTracing.Business", "StockTracing.Business\StockTracing.Business.csproj", "{869E4DB1-DC59-4FC2-B3A3-B5757E5810B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED93737-C4BB-44F7-B60E-CB51566C23D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED93737-C4BB-44F7-B60E-CB51566C23D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED93737-C4BB-44F7-B60E-CB51566C23D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED93737-C4BB-44F7-B60E-CB51566C23D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869E4DB1-DC59-4FC2-B3A3-B5757E5810B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869E4DB1-DC59-4FC2-B3A3-B5757E5810B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869E4DB1-DC59-4FC2-B3A3-B5757E5810B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869E4DB1-DC59-4FC2-B3A3-B5757E5810B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C27301-D614-413E-92EA-FF7853E60E2B}
+	EndGlobalSection
+EndGlobal
