@@ -1,0 +1,9 @@
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\bin\Debug\netstandard2.1\StockTracing.DataAccess.deps.json
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\bin\Debug\netstandard2.1\StockTracing.DataAccess.dll
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\bin\Debug\netstandard2.1\StockTracing.DataAccess.pdb
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\obj\Debug\netstandard2.1\StockTracing.DataAccess.csprojAssemblyReference.cache
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\obj\Debug\netstandard2.1\StockTracing.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\obj\Debug\netstandard2.1\StockTracing.DataAccess.AssemblyInfo.cs
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\obj\Debug\netstandard2.1\StockTracing.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\obj\Debug\netstandard2.1\StockTracing.DataAccess.dll
+C:\Users\Esra Kalkan\source\repos\StockTracing\StockTracing.DataAccess\obj\Debug\netstandard2.1\StockTracing.DataAccess.pdb

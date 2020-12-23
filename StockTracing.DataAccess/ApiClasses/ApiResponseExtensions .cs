@@ -27,21 +27,15 @@ namespace StockTracing.DataAccess.ApiClasses
 
     public class ApiResponseError
     {
-        // static Dictionary<ApiResponseErrorType, string> errorMessages = new Dictionary<ApiResponseErrorType, string>(
-        //    new KeyValuePair<ApiResponseErrorType, string>[]
-        //     {
-        //         new KeyValuePair<ApiResponseErrorType, string>(ApiResponseErrorType.OK, "Başarılı"),
-        //         new KeyValuePair<ApiResponseErrorType, string>(ApiResponseErrorType.AuthenticationFailed, "Giriş Başarısız!"),
-        //      }
-        // );
+        static Dictionary<ApiResponseErrorType, string> errorMessages = new Dictionary<ApiResponseErrorType, string>(
+           new KeyValuePair<ApiResponseErrorType, string>[]
+            {
+                 new KeyValuePair<ApiResponseErrorType, string>(ApiResponseErrorType.OK, "Başarılı"),
+                 new KeyValuePair<ApiResponseErrorType, string>(ApiResponseErrorType.AuthenticationFailed, "Giriş Başarısız!"),
+             }
+        );
 
-        static Dictionary<ApiResponseErrorType, string> errorMessages = new Dictionary<ApiResponseErrorType, string>()
-        {
-               {ApiResponseErrorType.OK, "Başarılı"},
-               {ApiResponseErrorType.AuthenticationFailed, "Giriş başarısız!"},
-               
-        };
-
+        
         public ApiResponseErrorType code { get; set; }
         public string message { get; set; }
 

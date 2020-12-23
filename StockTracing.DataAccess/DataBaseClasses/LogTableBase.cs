@@ -10,9 +10,9 @@ namespace StockTracing.DataAccess.DataBaseClasses
 
         public DateTime lastUpdate { get; set; } = DateTime.Now;
 
-        public string editedBy { get; set; }
+        public Guid editedBy { get; set; }
         public bool deleted { get; set; } = false;  
         public DateTime createdDate { get; set; }
-        public string createdBy { get; set; }
+        public Guid createdBy { get; set; }
     }
 }

@@ -19,7 +19,7 @@ namespace StockTracing.DataAccess.DataBaseClasses
         public DbSet<Stock> stocks { get; set; }
         public DbSet<StockFile> stockFiles { get; set; }
         public DbSet<stockProduct> stockProducts { get; set; }
-        public DbSet<users> users { get; set; }
+        public DbSet<user> users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
